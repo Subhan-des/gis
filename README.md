@@ -22,7 +22,6 @@ Unlike optical satellites (which are blinded by clouds), SAR emits microwave pul
 By applying targeted thresholding to these backscatter values, the algorithm accurately extracts the flooded areas.
 
 ## Visual Evidence: The Indus River Breach
-*(Note: Replace these placeholder links with the actual links to your uploaded images)*
 
 **Map 1: Pre-Monsoon Baseline (June 2022)**
 ![Pre-Flood Baseline](https://earthengine.googleapis.com/v1/projects/flood-extent-mapping-punjab/thumbnails/eb1715ec1eb4cc8ec7742a2b32fadbf5-473d8744d6d83cac0b03d0af326b2b6b:getPixels)
